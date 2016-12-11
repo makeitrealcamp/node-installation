@@ -50,7 +50,7 @@ Si te dice que el comando no fue encontrado debes instalar [Homebrew](http://bre
 
 Verifica que el comando `brew -v` funcione y te muestre alguna versión.
 
-# NodeJS
+## NodeJS
 
 Una vez que tengas las herramientas de la línea de comandos de XCode y Homebrew, ahora si puedes instalar NodeJS con el siguiente comando:
 
