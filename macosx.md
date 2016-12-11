@@ -1,6 +1,6 @@
 # Instalación en Mac OSX
 
-Existen varias formas de instalar [NodeJS](https://nodejs.org/) en Mac. Sin embargo, primero necesitas tener instaladas las herramientas de la línea de comandos de [XCode](https://developer.apple.com/xcode/):
+Para instalar [NodeJS](https://nodejs.org/) en Mac necesitas tener instaladas las herramientas de la línea de comandos de [XCode](https://developer.apple.com/xcode/) y [Homebrew](http://brew.sh/).
 
 ## XCode
 
