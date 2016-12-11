@@ -1,10 +1,8 @@
 # Instalación en Windows
 
-NodeJS provee un paquete de instalación para Windows que puedes encontrar en [este enlace](https://nodejs.org/en/download/current/).
+[NodeJS](https://nodejs.org/) cuenta un instalador para Windows que facilita el proceso de instalación en tu máquina. Los pasos que debes seguir son:
 
-## Pasos para la instalación
-
-1. Descarga el instalador.
+1. Descarga el instalador de https://nodejs.org/en/download/current/ (es un archivo con extensión `.msi`).
 2. Ejecuta el instalador.
 3. Sigue las instrucciones de instalación (acepta la licencia y oprime el botón "Siguiente" varias veces).
 4. Reinicia tu computador.
